@@ -1,0 +1,21 @@
+/*basic reset */
+html, body, h1, h2 {
+  padding: 0;
+  margin: 0;
+}
+header {
+  padding: 20px;
+  color: white;
+}
+header h1 {
+  text-align: center;
+}
+#left {
+  background-image: url(..assets/img/marc-hammond.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 100%;
+  min-height: 100em;
+  width:
+  }
